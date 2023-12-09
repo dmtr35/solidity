@@ -1,0 +1,21 @@
+скомпилировать смортконтракт:
+npx hardhat compile
+
+очистить скомпилированые 
+npx hardhat clean
+
+запустить тесты
+npx hardhat test
+
+npx hardhat node   - запустить hardhat
+
+
+
+
+
+
+
+
+
+
+
